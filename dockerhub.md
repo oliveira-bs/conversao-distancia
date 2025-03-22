@@ -47,6 +47,9 @@ Para rodar a imagem diretamente do Docker Hub, use o seguinte comando:
 ```
 docker container run -d -p 5000:5000 oliveirabsdocker/conversao-distancia-desafio:latest
 ```
+### Link da imagem no Docker Hub
+
+Para conferir a imagem no Docker Hub [acesse aqui](https://hub.docker.com/r/oliveirabsdocker/conversao-distancia-desafio/tags)
 
 ## Conclusão
 
